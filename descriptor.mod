@@ -1,9 +1,3 @@
-replace_path = "common/national_focus"
-replace_path = "history/units"
-replace_path = "events"
-replace_path = "common/national_focus"
-replace_path = "common/decisions"
-replace_path = "common/decisions/categories"
 version="0.1"
 tags={
 	"Map"
